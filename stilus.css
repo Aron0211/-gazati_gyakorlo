@@ -20,6 +20,14 @@ main{
 
 }
 
+h1{
+    letter-spacing: 2pt;
+}
+
+h2{
+    letter-spacing: 2pt;
+}
+
 
 header{
     grid-area: h;
